@@ -1,0 +1,252 @@
+
+a{
+  color: black;
+  font-size: 1em;
+  text-decoration: none;
+}
+em{
+  color: #A5B4FC;
+}      
+  
+h1{
+  font-size: 3.5em;
+  font-family: 'Montserrat', sans-serif;
+  color: #A5B4FC;
+}
+
+p, li, a{
+  font-family: 'Manrope', sans-serif; 
+}
+.pp{
+  margin-left: -18em;
+  margin-top: -2em;
+  justify-content: space-around;
+}
+
+p{
+  font-size: 1.1em;
+}
+
+li{
+  font-size: 1em;
+}
+.hautbas{
+  background-color: white;
+  display: flex;
+  margin:10px;
+}
+.hautbas2{
+  background-color: white;
+  display: flex;
+  margin:25px;
+}
+.haut{
+  background-color: #1f2039;
+  padding: 55px;
+}
+.haut p, .liste-appropos{
+  text-align: left;
+  padding-left: 18em;
+  justify-content: center;
+}
+.apropos-marge{
+  text-align: center;
+}
+.appropos-h2{
+  padding-left: 10em;
+  color: #9795d3;
+  font-size: 2em;
+}
+
+p, li, h2{
+  color: #f9f8ff;
+}
+
+.h2-haut{
+  color: #1f2039;
+  text-align: center;
+}
+.mdp{
+  position: sticky;
+  text-align: center;
+  margin-top: 4em;
+  max-width: 100%;
+  width: 100%;
+}
+.hautbas{
+  background-color: white;
+  display: flex;
+  padding-top: 10px;
+}
+.titre{
+  padding-left: 6em;
+
+}
+.lensimg {
+  right:100%;
+  position: absolute;
+  top: 18%;
+  left: 65%;
+  width: 20em;
+  height: 20em;
+}
+h1{
+  font-size: 3.5em;
+  font-family: 'Montserrat', sans-serif;
+  color: #A5B4FC;
+}
+button{
+  border-radius: 50px;
+  padding: 0.8em 4em;
+  background-color:#a19fd8;
+}
+.logo{
+  position: absolute;
+  top: 1.5em;
+}
+.mdp img{
+  padding: 0.3rem;
+  margin-top: 1em;
+}
+.reseauimg{
+  text-align: right;
+  margin-left: 87%;
+}
+.lien-accueil{
+  display: flex;
+  margin-left: 70em;
+  text-align: right;
+  margin-top: 10px;
+  
+}
+.marge-menu{
+  padding-right: 20px;
+}
+.logo{
+  margin-left:2% ;
+  }
+
+  /* tABLEAU */
+/* .liste-appropos li{
+  list-style-type:none; 
+
+ } */
+.bouton-voir-mon-portfolio{
+  border-radius: 50px;
+  padding: 0.8em 4em;
+  background-color:#a19fd8;
+  margin-left: 43em;
+  
+}
+  .h2-table{
+  text-align: center;
+  font-size: 3em;
+  }
+table{
+  border-collapse: collapse;
+  border: 2px solid rgb(200, 200, 200);
+  letter-spacing: 1px;
+  font-family: sans-serif;
+  font-size: 1em;
+  margin-left:15em ;
+}
+td,th{
+  border: 1px solid rgb(190, 190, 190);
+  padding-right: 120px;
+  margin: 105px 50px;
+  color: #f9f8ff;
+  padding: 50px;
+}
+td{
+  text-align: center;
+}
+th{
+  text-align: center;
+}
+
+
+
+
+.b{
+  justify-content: space-around;
+  flex-wrap: ;
+ }
+
+/* FIN tABLEAU */
+
+/* FORMULAIRE */
+
+form{
+  padding-left: 28em;
+  background-color: #1f2039;
+  padding-top:3em;
+  padding-bottom: 5em;
+  margin-top: 3em;
+}
+label{
+  color: #f9f8ff;
+}
+ .message{
+  display:grid;
+  width: 40em;
+  margin: 15px;
+}
+.nom-email{
+  display:flex;
+  width: 40em;
+  padding-left: 1em
+}
+.nom{
+
+}
+.email{
+  padding-left: 2.5em
+}
+ .espace{
+  width: 22em;
+ } 
+.submit{
+  margin-top: 15px;
+  margin-left: 16em;
+}
+form button{
+  border-radius: 50px;
+  padding: 0.8em 4em;
+  background-color:#a19fd8;
+}
+.form-h2{
+  color: #9795d3;
+  padding-left: 9em;
+  font-size: 1.5em;
+  
+}
+
+
+
+/* FIN FORMULAIRE */
+
+
+/* page portfolio */
+.portfolio-h1{
+  background-color: #1f2039;
+  padding: 1.2em;
+}
+.portfolio img{
+  /* justify-: center; */
+  width: 25em;
+  height: 20em;
+  padding: 0.5em 0.5em;
+}
+
+.portfolio h2{
+  color: black;
+  text-align: start;
+  font-size: 1.5em;
+  margin-left: 1.5em;
+}
+.portfolio div{
+  margin-left: 7em;
+  border-radius: 30em;
+}
+
+/* page portfolio */

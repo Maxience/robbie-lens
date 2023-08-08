@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;800;900&display=swap');
+
+body{
+    padding: 10PX;
+    width: 100%;
+    margin: 10px 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+header{
+    position: relative;
+    background-color: #fff; 
+    background-color: rgb(31, 32, 57); 
+    padding: 5px auto;
+    width: 100%;
+    z-index: 5;
+    text-align: center;
+    margin-top: 5px;
+}
+nav{
+    position:relative;
+    width: 100%;
+    background-color::#fff;
+    top:1px;
+    margin: 2px auto;
+    z-index: 5;
+}
+p, li, h2{
+    color: #f9f8ff;
+p{
+    font-size: 1.1em;
+  }
+  
+  li{
+    font-size: 1em;
+  }
+.hautbas{
+    background-color: white;
+    display: flex;
+}
+.logoimg{
+    position: absolute;
+    top: -1.5rem;
+    left: 8rem;
+}
+li{
+    list-style-type: none;
+    display:flex;
+    justify-content:space-evenly;
+    position: sticky;
+    text-transform: none;
+    
+}
+a{
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+}
+.haut{
+    width: 100% ;  
+    position: relative;
+    max-width: 100%;
+    background-color: #1f2039;
+    margin: 10rem auto;
+    height: 33rem;
+    margin-top: 0.5rem;
+    
+    
+}
+.lensimg {
+    right:100%;
+    position: absolute;
+    top: 18%;
+    left: 65%;
+    width: 25rem;
+    height: 25rem;
+    background-color: darkgray ;
+    ;
+}
+h1{
+    font-size: 3.5em;
+    font-family: 'Montserrat', sans-serif;
+    color: #A5B4FC;
+  }
+.haut h1{
+    top: 100px;
+    /* padding: 30px ; */
+    margin-top: 75px;
+    position:absolute;
+    text-align: left;
+    color:rgb(149, 143,193);
+    font-size: 3em;
+    margin-left: 20em;
+    
+}
+.haut p {
+    top: 60px;
+    margin-top: 250px;
+    position: absolute;
+    margin-left: 20rem;
+    font-size: 1.3rem;
+}
+.bouton{
+    top: 50px;
+    font-size: 1rem;
+    margin-top: 360px;
+    position: absolute;
+    margin-left: 20rem;
+    padding:1rem;
+    border-radius: 30px;
+    color:rgb(231, 231, 239);
+    background-color: rgb(149, 143,193);
+    
+}
+.haut p span{
+    color:rgb(161,176,247);
+}
+P{
+    color: rgb(238, 237, 245);
+    font-size: 17px;
+
+}
+ 
+.mdp{
+    position: sticky;
+    text-align: center;
+    margin-top: -4rem;
+    max-width: 100%;
+    width: 100%;
+}
+.mdp img{
+    padding: 0.3rem;
+    margin-top: 1rem;
+}
+.fdc{
+    position: relative;
+    background-color: #fff; 
+    /* background-color: rgb(31, 32, 57);  */
+    padding: 5px auto;
+    width: 100%;
+    z-index: 5;
+    text-align: center;
+    margin-top: 5px;
+}
+.reseauimg{
+    text-align: right;
+    margin-left: 87%;
+  }
+  .lien-accueil{
+    /* margin-left: %; */
+    text-align: right;
+    margin-top: 10px;
+    
+  }
+  .logo{
+    margin-left:2% ;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table{
+    border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 200);
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+td,th{
+    border: 1px solid rgb(190, 190, 190);
+    padding-right: 120px;
+    margin: 105px 50px;
+
+}
+td{
+    text-align: center;
+}
+td,th{
+    text-align: center;
+}
